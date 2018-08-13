@@ -1,0 +1,11 @@
+/home/ecalderon/Development/csharp/projecto_final/bin/Debug/netcoreapp2.1/proyectofinal.deps.json
+/home/ecalderon/Development/csharp/projecto_final/bin/Debug/netcoreapp2.1/proyectofinal.runtimeconfig.json
+/home/ecalderon/Development/csharp/projecto_final/bin/Debug/netcoreapp2.1/proyectofinal.runtimeconfig.dev.json
+/home/ecalderon/Development/csharp/projecto_final/bin/Debug/netcoreapp2.1/proyectofinal.dll
+/home/ecalderon/Development/csharp/projecto_final/bin/Debug/netcoreapp2.1/proyectofinal.pdb
+/home/ecalderon/Development/csharp/projecto_final/obj/Debug/netcoreapp2.1/proyectofinal.csprojAssemblyReference.cache
+/home/ecalderon/Development/csharp/projecto_final/obj/Debug/netcoreapp2.1/proyectofinal.csproj.CoreCompileInputs.cache
+/home/ecalderon/Development/csharp/projecto_final/obj/Debug/netcoreapp2.1/proyectofinal.AssemblyInfoInputs.cache
+/home/ecalderon/Development/csharp/projecto_final/obj/Debug/netcoreapp2.1/proyectofinal.AssemblyInfo.cs
+/home/ecalderon/Development/csharp/projecto_final/obj/Debug/netcoreapp2.1/proyectofinal.dll
+/home/ecalderon/Development/csharp/projecto_final/obj/Debug/netcoreapp2.1/proyectofinal.pdb
